@@ -157,7 +157,7 @@ local QaA = {
 	{q = "What is the name of Google's mobile operating system?", a = "Android"},
 	{q = "What is gymnophobia the fear of?", a = "Nudity"},
 	{q = "What musical instrument does Sherlock Holmes play for relaxation?", a = "Violin"},
-	{q = "What is New York City's most popular nickname?", a = "The Big Apple"},
+	{q = "What is New York City's most popular nickname?", a = "The Big Apple"}
 	
 }
 
