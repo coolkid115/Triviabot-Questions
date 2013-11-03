@@ -78,7 +78,6 @@ local QaA = {
 	{q = "What iPod was the first without a screen or a scroll wheel?", a = "Ipod Shuffle"},
 	{q = "Which year was the first Indiana Jones movie released?", a = "1981"},
 	{q = "Which is US's largest state by land area?", a = "Alaska"},
-	{q = "Is my host a guard or a prisoner?", a = "Guard"},
 	{q = "How many bends does a standard paperclip have?", a = "3"},
 	{q = "How would you write 99 in Roman numerals?", a = "XCIX"},
 	{q = "What metal is also known as quicksilver?", a = "Mercury"},
